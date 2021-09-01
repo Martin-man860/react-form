@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-color:yellow;
+}
+
+input{
+  padding:10px;
+  margin:5px;
+}
+
+.submit{
+  background-color:blue;
+}
